@@ -1,6 +1,6 @@
-# Calenduuh Free (and Paid) — Support
+# MIGO Free (and licensed) — Support
 
-Welcome to the support page for **Calenduuh**, the lightweight desktop calendar for macOS that keeps your schedule and notes just a click away.
+Welcome to the support page for **MIGO**, the lightweight desktop calendar for macOS that keeps your schedule and notes just a click away.
 
 If you need help, have feedback, or want to report an issue, you can reach us at:
 
