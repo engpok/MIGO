@@ -6,6 +6,7 @@
 - These sliders declare the maximum temperature that the clothing item is needed for. For example, if Sweater is set to 60 degF, then if the temperature is above 60 degF the app will not suggest a sweater is needed.
 - The sliders are chained together, so that they can't overlap each other.
 - Each clothing item shows a range of temperatures from the clothing item below, to the current clothing item.
+- Back one level in Settings there is a **"personal thermostat" slider**. If you don't want to mess with tuning the app for your clothing you can just use this slider. If you find you're too cold when you are outdoors, then bump this slider up a few degrees. This is also handy if you're fighting illness and just need to be a bit warmer some days.
   
 ---
 ### Example to illustrate how to use these clothing sliders:
