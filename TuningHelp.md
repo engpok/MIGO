@@ -1,5 +1,5 @@
 # MIGO Tuning Help
-<img width="325" height="656" alt="image" src="https://github.com/user-attachments/assets/bb9bedfa-361b-4c69-8c0a-270a7d0cff09" />
+<img width="325" height="400" alt="image" src="https://github.com/user-attachments/assets/bb9bedfa-361b-4c69-8c0a-270a7d0cff09" />
 
 ---
 ## Clothes vs Temperature Sliders
