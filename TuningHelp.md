@@ -1,5 +1,5 @@
-# MIGO Tuning Help
-<img width="198" height="400" alt="image" src="https://github.com/user-attachments/assets/bb9bedfa-361b-4c69-8c0a-270a7d0cff09" />
+# MIGO Help
+<img width="325" height="656" alt="image" src="https://github.com/user-attachments/assets/bb9bedfa-361b-4c69-8c0a-270a7d0cff09" />
 
 ---
 ## Clothes vs Temperature Sliders
@@ -29,7 +29,7 @@ The **Dew Point slider** in the Miscellaneous section (below the clothing slider
 ## Frequently Asked Questions
 
 ### How can this app work when there is wind?
-That app takes many conditions into account for each hour. It even takes your activity level (sitting, walking, bike riding) into account. However, if you walk in a loop, then part of the time the wind is in yoru face (effectively higher wind speed) and sometimes behind you (effectively lower wind speed). So, the app won't be perfect for the entire walk. But, it's pretty close, and since most of the clothing items can be layered, you should error on the more-clothes side and take off a layer (or open a jacket/coat) if needed.
+The app takes many conditions into account for each hour. It even takes your activity level (sitting, walking, bike riding) into account. However, if you walk in a loop, then part of the time the wind is in your face (effectively higher wind speed) and sometimes behind you (effectively lower wind speed). So, the app won't be perfect for the entire walk. But, it's pretty close, and since most of the clothing items can be layered, you should initially error on the more-clothes side and take off a layer (or open a jacket/coat) if needed.
 
 ### My jacket is thinner than the jacket pictured. How do I handle this?
 You just have to tune the app for your particular jacket type. If you have some thin jackets and some heavier, then you might want to consider your thinner jackets equivalent to sweaters; and tune the app to your thicker jackets.
@@ -44,3 +44,20 @@ No. If you're just walking to class, or doing a slow walk of the dogs, that's no
 
 ### I went for a hike in the hills and the app had me wearing way too much clothes.
 Yes, if you're a hiker or serious biker, this app will not be correct. Those are very high levels of activity and require specialized clothing in cold weather.
+
+## The four columns of the Hourly Tab:
+
+### What are the four columns in the Hourly tab?
+There is an hourly row for the next 48 hours.
+ - The first column (left to right) shows the time of day, sunrise/sunset, and the temperature.
+ - Next, is a representation of the Sun or Moon (with moon phase). There are multiple layers:
+ -   Blue vertical lines along the bottom indicates chance of precipitation... more lines, higher chance of precipitation. If the chance is moderately high then a closed umbrella appears to say you might want to bring an umbrella. An open umbrella with rain drops indicates that rain is very likely. If the temperature is low enough then the word "Snow" with "chance" or "likely" will appear.
+ -   White horizontal lines stacked on the right side indicate the wind speed... more lines, higher speed
+ -   Other overlays: Frost or Dew will appear to let you know that you might have to scrape the car's windshield, or your toes will get wet if you go out with bare feet.
+ - The third column shows the recommended clothes. It's nice to have this for each hour so you can plan what to wear based on when you'll be outside. Note that for many times of year, the recommended clothing changes dramatically through the day.
+ -   See-thru gray, growing up from the bottom indicates amount of cloud cover
+ -   Orange dew drop indicates sticky air conditions (high dew point temperature)
+ -   
+
+### What are the symbols in the right column of the Hourly tab?
+The app can show a beanie, a ball cap, thin gloves, thick gloves, a scarf, the wind sock (at four levels of wind strength) and a lightning bolt. The app determines the hat, gloves and scarf based on effective temperature. Efective temperature is a combination of many weather conditions. The wind sock will raise and even bend the pole based on wind speed. The lightning bolt indicates that the air is dry enough that you could experience static shock.
