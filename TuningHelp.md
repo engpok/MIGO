@@ -52,14 +52,14 @@ Yes, if you're a hiker or serious biker, this app will not be correct. Those are
 There is an hourly row for the next 48 hours.
  - The **first column (left to right)** shows the time of day, sunrise/sunset, and the temperature.
  - **The second column** is a representation of the Sun or Moon (with moon phase). There are multiple layers:
- -   **Blue vertical lines** along the bottom indicates chance of precipitation... more lines, higher chance of precipitation. If the chance is moderately high then a **closed umbrella** appears to say you might want to bring an umbrella. An **open umbrella with rain drops** indicates that rain is very likely. If the temperature is low enough then the word **"Snow" with "chance" or "likely"** will appear.
- -   **White horizontal lines** stacked on the right side indicate the wind speed... more lines, higher speed
- -   Other overlays: **Frost** or **Dew** will appear to let you know that you might have to scrape the car's windshield, or your toes will get wet if you go out with bare feet. An **Orange dew drop** indicates sticky air conditions (high dew point temperature). A **blue ice cube** indicates that the temperature will be below freezing, so be cautious around potentially wet surfaces.
- -   **See-thru gray**, growing up from the bottom indicates amount of cloud cover 
+    - **Blue vertical lines** along the bottom indicates chance of precipitation... more lines, higher chance of precipitation. If the chance is moderately high then a **closed umbrella** appears to say you might want to bring an umbrella. An **open umbrella with rain drops** indicates that rain is very likely. If the temperature is low enough then the word **"Snow" with "chance" or "likely"** will appear.
+   - **White horizontal lines** stacked on the right side indicate the wind speed... more lines, higher speed
+   - Other overlays: **Frost** or **Dew** will appear to let you know that you might have to scrape the car's windshield, or your toes will get wet if you go out with bare feet. An **Orange dew drop** indicates sticky air conditions (high dew point temperature). A **blue ice cube** indicates that the temperature will be below freezing, so be cautious around potentially wet surfaces.
+   - **See-thru gray**, growing up from the bottom indicates amount of cloud cover 
  - **The third column** shows the recommended clothing. It's nice to have this for each hour so you can plan what to wear based on when you'll be outside. Note that for many times of year, the recommended clothing changes dramatically through the day.
  - **The fourth column** wind and air related conditions:
- -   A beanie or ball cap
- -   Thin or thick gloves
- -   A scarf
- -   The wind sock is another visual cue about wind. The sock might be limp, sligtly filling, more full, full and finally bending the pole if extremely windy.
- -   A lightning bolt indicates that the air is dry enough that you could experience static shock.
+   - A beanie or ball cap
+   - Thin or thick gloves
+   - A scarf
+   - The wind sock is another visual cue about wind. The sock might be limp, sligtly filling, more full, full and finally bending the pole if extremely windy.
+   - A silver lightning bolt indicates that the air is dry enough that you could experience static shock.
