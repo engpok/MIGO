@@ -3,10 +3,9 @@
 
 ---
 ## Clothes vs Temperature Sliders
-- These sliders declare the maximum temperature that the clothing item is needed for. For example, if Sweater is set to 60 degF, then if the temperature is above 60 degF the app will not suggest a sweater is needed.
-- The sliders are chained together, so that they can't overlap each other.
-- Each clothing item shows a range of temperatures from the clothing item below, to the current clothing item.
-- Back one level in Settings there is a **"personal thermostat" slider**. If you don't want to mess with tuning the app for your clothing you can just use this slider. If you find you're too cold when you are outdoors, then bump this slider up a few degrees. This is also handy if you're fighting illness and just need to be a bit warmer some days.
+- These sliders declare the maximum temperature that the clothing item is needed for. For example, if Jacket is set to 45 degF and Sweater is set to 60 degF, then a sweater (plus possibly under-layers) will be sugested when the temperature is between 45 and 60.
+- The sliders are chained together, so that they can't overlap each other. That is why moving one slider may force another slider to move.
+- Back one level, in Settings, there is a **"personal thermostat" slider**. If you don't want to mess with tuning the app for your clothing, you can just use this slider. If you find you're too cold when you are outdoors, then bump this slider up a few degrees. This is also handy if you're fighting illness and just need to be a bit warmer some days.
   
 ---
 ### Example to illustrate how to use these clothing sliders:
@@ -14,14 +13,14 @@
  - If you're going out for a walk, set the Activity selector (at the top of the Hourly tab) to Walking
 <img width="129" height="139" alt="image" src="https://github.com/user-attachments/assets/45e8eeec-d576-411c-8fdb-403cb723a5b8" />
 
- - Imagine that the app suggests that you should be wearing a jacket and turtleneck
+ - Imagine that the app suggests that you should be wearing a jacket and turtleneck. So you put that on.
  - Walk for atleast 5 minutes and then decide if you're too hot or too cold. If you're too cold then bump the jacket slider up a few degrees. You may not get this right the first time, but that is what "tuning" is all about. Over time, you'll find the right setting for your metabolism and your particular jacket (my jackets are pretty warm, yours might be thinner).
- - Over the different seasons, you'll repeat this each time there is a different clothing item suggested (ie. Frigid for heavy coat, coat, jacket, sweater, and long sleeved t-shirt).
+ - Over the changing seasons, as you encounter different levels of temperatures, you'll repeat this for the different clothing items suggested (ie. Frigid for heavy coat, coat, jacket, sweater, and long sleeved t-shirt).
  - Once it's tuned for you, the app will always suggest the appropriate clothing for any temperature, wind, cloud cover, day/night conditions.
 
 ---
 
-The **Dew Point slider** in the Miscellaneous section (below the clothing sliders) is used to set the dew point temperature that feels sticky to you. This is typically somewhat subjective, but generally the value is between 55-65 degF. When you set this for you, the Sun icon in the Hourly tab (2nd column from left) will show an orange dew drop over the Sun for any hour where the dew point temperature is above this slider value:
+The **Dew Point slider** in the Miscellaneous section (below the clothing sliders) is used to set the dew point temperature that feels sticky to you. This is somewhat subjective, but generally the value is between 55-65 degF. When you set this for you, the Sun icon in the Hourly tab (2nd column from left) will show an orange dew drop over the Sun for any hour where the dew point temperature is at/above this slider value:
 
 <img width="119" height="115" alt="image" src="https://github.com/user-attachments/assets/4127011d-9ff1-43a1-bd66-302889860d60" />
 
@@ -41,10 +40,10 @@ Yes, this can happen from time to time. Weather forecasts are not perfect. Howev
 Another potential problem occurs when the app can't find your location and defaults to a different location. Now the reported weather is not your weather and therefore the suggested clothing may be wrong. The hourly tab always reports the location used for the weather, so make sure this is correct. If not, you can go to the app's setting tab; then to "Manage Cities" page and tap the "Use Current Location" button.
 
 ### I'm just walking to class... is that considered a walking activity?
-No. If you're just making a short walk to class, or doing a slow walk of the dogs, that's not "walking" activity. That's more similar to the "Sitting" activity level. By "Walking" the app is assuming you're out for atleast a 15 minute walk without stopping to smell the roses.
+No. If you're just taking a short walk to class, or doing a slow walk of the dogs, that's not "walking" activity. That's more similar to the "Sitting" activity level. By "Walking", the app is assuming you're out for atleast a 15 minute walk without stopping to smell the roses.
 
 ### I went for a hike in the hills and the app had me wearing way too much clothes.
-Yes, if you're a hiker or serious biker, this app will not be correct. Those are very high levels of activity and require specialized clothing in cold weather.
+Yes, if you're a hiker or serious biker, this app will not be correct. Those are very high levels of activity and require specialized clothing in cold weather. The same idea applies to the "biking" activity level in the app. This is not intended for racers or mountain biking. It's meant for a bike tour of a city or a 30 minute leisurely trip on a bike path with a friend.
 
 ### I'm traveling next week... will the app work in other locations.
 Yes, Apple Weather is available all around the world. The app will automatically switch to your local area when you travel. Also, since you're not traveling until next week, switch the location (in the app's settings) to the new city to find out what clothing you'll need for that location.
