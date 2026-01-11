@@ -41,20 +41,27 @@ Yes, this can happen from time to time. Weather forecasts are not perfect. Howev
 Another potential problem occurs when the app can't find your location and defaults to a different location. Now the reported weather is not your weather and therefore the suggested clothing may be wrong. The hourly tab always reports the location used for the weather, so make sure this is correct. If not, you can go to the app's setting tab; then to "Manage Cities" page and tap the "Use Current Location" button.
 
 ### I'm just walking to class... is that considered a walking activity?
-No. If you're just walking to class, or doing a slow walk of the dogs, that's not "walking" activity. That's more similar to the "Sitting" activity level. By "Walking" the app is assuming you're out for atleast a 15 minute walk without stopping to smell the roses.
+No. If you're just making a short walk to class, or doing a slow walk of the dogs, that's not "walking" activity. That's more similar to the "Sitting" activity level. By "Walking" the app is assuming you're out for atleast a 15 minute walk without stopping to smell the roses.
 
 ### I went for a hike in the hills and the app had me wearing way too much clothes.
 Yes, if you're a hiker or serious biker, this app will not be correct. Those are very high levels of activity and require specialized clothing in cold weather.
 
+### I'm traveling next week... will the app work in other locations.
+Yes, Apple Weather is available all around the world. The app will automatically switch to your local area when you travel. Also, since you're not traveling until next week, switch the location (in the app's settings) to the new city to find out what clothing you'll need for that location.
+
+---
+
 ## The four columns of the Hourly Tab:
 
-### What are the four columns in the Hourly tab?
-There is an hourly row for the next 48 hours.
- - The **first column (left to right)** shows the time of day, sunrise/sunset, and the temperature.
- - **The second column** is a representation of the Sun or Moon (with moon phase). There are multiple layers:
-    - **Blue vertical lines** along the bottom indicates chance of precipitation... more lines, higher chance of precipitation. If the chance is moderately high then a **closed umbrella** appears to say you might want to bring an umbrella. An **open umbrella with rain drops** indicates that rain is very likely. If the temperature is low enough then the word **"Snow" with "chance" or "likely"** will appear.
+There are hourly rows for the next 48 hours.
+ - The **first column (from left to right)** shows the time of day, sunrise/sunset, and the temperature.
+ - **The second column** is a representation of the Sun or Moon (with moon phase). There are multiple types of overlaid information:
+    - **Blue vertical lines** along the bottom indicate chance of precipitation... more lines, higher chance of precipitation. If the chance is moderate then a **closed umbrella** appears to say you might want to bring an umbrella. An **open umbrella with rain drops** indicates that rain is very likely. If the temperature is low enough then the word **"Snow" with "chance" or "likely"** will appear instead of the umbrella.
    - **White horizontal lines** stacked on the right side indicate the wind speed... more lines, higher speed
-   - Other overlays: **Frost** or **Dew** will appear to let you know that you might have to scrape the car's windshield, or your toes will get wet if you go out with bare feet. An **Orange dew drop** indicates sticky air conditions (high dew point temperature). A **blue ice cube** indicates that the temperature will be below freezing, so be cautious around potentially wet surfaces.
+   - Other overlays:
+     - **Frost** or **Dew** will appear to let you know that you might have to scrape the car's windshield, or your toes will get wet if you go out with bare feet.
+     - An **Orange dew drop** indicates sticky air conditions (high dew point temperature).
+     - A **blue ice cube** indicates that the temperature is below freezing, so be cautious around potentially wet surfaces.
    - **See-thru gray**, growing up from the bottom indicates amount of cloud cover 
  - **The third column** shows the recommended clothing. It's nice to have this for each hour so you can plan what to wear based on when you'll be outside. Note that for many times of year, the recommended clothing changes dramatically through the day.
  - **The fourth column** wind and air related conditions:
@@ -62,4 +69,4 @@ There is an hourly row for the next 48 hours.
    - Thin or thick gloves
    - A scarf
    - The wind sock is another visual cue about wind. The sock might be limp, sligtly filling, more full, full and finally bending the pole if extremely windy.
-   - A silver lightning bolt indicates that the air is dry enough that you could experience static shock.
+   - A **silver lightning bolt** indicates that the air is dry enough that you could experience static shock when you touch metal objects.
