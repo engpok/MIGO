@@ -54,7 +54,7 @@ Yes, Apple Weather is available all around the world. The app will automatically
 
 There are hourly rows for the next 48 hours.
  - The **first column (from left to right)** shows the time of day, sunrise/sunset, and the temperature.
- - **The second column** is a representation of the Sun or Moon (with moon phase). There are multiple types of overlaid information:
+ - **The second column** is a representation of the Sun or Moon (with moon phase), and a visual summary of weather conditions:
     - **Blue vertical lines** along the bottom indicate chance of precipitation... more lines, higher chance of precipitation. If the chance is moderate then a **closed umbrella** appears to say you might want to bring an umbrella. An **open umbrella with rain drops** indicates that rain is very likely. If the temperature is low enough then the word **"Snow" with "chance" or "likely"** will appear instead of the umbrella.
    - **White horizontal lines** stacked on the right side indicate the wind speed... more lines, higher speed
    - Other overlays:
