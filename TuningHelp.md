@@ -63,7 +63,7 @@ There are hourly rows for the next 48 hours.
      - A **blue ice cube** indicates that the temperature is below freezing, so be cautious around potentially wet surfaces.
    - **See-thru gray**, growing up from the bottom indicates amount of cloud cover 
  - **The third column** shows the recommended clothing. It's nice to have this for each hour so you can plan what to wear based on when you'll be outside. Note that for many times of year, the recommended clothing changes dramatically through the day.
- - **The fourth column** wind and air related conditions:
+ - **The fourth column** is for wind and air related conditions:
    - A beanie or ball cap
    - Thin or thick gloves
    - A scarf
